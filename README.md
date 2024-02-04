@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development.<br>🌱 I’m currently learning Blockchain.<br>💬 Ask me about my interests.<br>
 
-[![rishmiiee26 Web3 | Identity](https://stats.quine.sh/zeddkhan03/web3?theme=light)](https://quine.sh)
+[![rishmiiee26 Web3 | Identity](https://stats.quine.sh/rishmiiee26/web3?theme=light)](https://quine.sh)
 
-[![rishmiiee26 GitHub | Stats](https://stats.quine.sh/zeddkhan03/github?theme=light)](https://quine.sh)
+[![rishmiiee26 GitHub | Stats](https://stats.quine.sh/rishmiiee26/github?theme=light)](https://quine.sh)
 
 [![rishmiiee26 GitHub | Languages Over Time](https://stats.quine.sh/zeddkhan03/languages-over-time?theme=dark)](https://quine.sh)
 
