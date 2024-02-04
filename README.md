@@ -1,12 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development.<br>🌱 I’m currently learning Blockchain.<br>💬 Ask me about my interests.<br>
 
-[![rishmiiee26 Web3 | Identity](https://stats.quine.sh/rishmiiee26/web3?theme=light)](https://quine.sh)
-
-[![rishmiiee26 GitHub | Stats](https://stats.quine.sh/rishmiiee26/github?theme=light)](https://quine.sh)
-
-[![rishmiiee26 GitHub | Languages Over Time](https://stats.quine.sh/rishmiiee26/languages-over-time?theme=dark)](https://quine.sh)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishmiita26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeddkhan03) 
