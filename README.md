@@ -5,7 +5,7 @@
 
 [![rishmiiee26 GitHub | Stats](https://stats.quine.sh/rishmiiee26/github?theme=light)](https://quine.sh)
 
-[![rishmiiee26 GitHub | Languages Over Time](https://stats.quine.sh/zeddkhan03/languages-over-time?theme=dark)](https://quine.sh)
+[![rishmiiee26 GitHub | Languages Over Time](https://stats.quine.sh/rishmiiee26/languages-over-time?theme=dark)](https://quine.sh)
 
 
 ## 🌐 Socials:
