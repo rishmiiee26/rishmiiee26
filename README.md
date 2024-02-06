@@ -15,8 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## Watch Snake eating my GitHub contributions:
+![snake gif](https://github.com/zeddkhan03/zeddkhan03/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rishmiiee26&icon=0&color=0)](https://visitcount.itsvg.in)
