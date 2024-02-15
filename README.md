@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br> 💬 Ask me about my interests.<br>
+💻I’m currently working on Web Development.<br> 💬 Ask me about my interests.<br>
 
 
 ## 🌐 Socials:
