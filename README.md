@@ -1,5 +1,6 @@
-# 💫 About Me:
-💻I’m currently working on Web Development.<br> 💬 Ask me about my interests.<br>
+# 💫HELLO:
+
+💻I’m currently working on Web Development.<br> 🌱 I’m currently focusing DSA too. <br> 💬 Ask me about my interests.<br>
 
 
 ## 🌐 Socials:
