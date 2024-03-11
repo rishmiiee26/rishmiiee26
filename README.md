@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Watch Snake eating my GitHub contributions:
-![snake gif](https://github.com/rishmiiee26/rishmiiee26/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/zeddkhan03/zeddkhan03/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rishmiiee26&icon=0&color=0)](https://visitcount.itsvg.in)
